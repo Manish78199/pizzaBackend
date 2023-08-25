@@ -1,0 +1,10 @@
+/ in django 
+
+// pip install pyjwt
+
+/ / pip install razorpay 
+/** create account on razorpay and create key_id, secret_key
+
+
+
+//pip install django-cors-headers
